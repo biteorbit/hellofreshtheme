@@ -389,6 +389,7 @@ i {
 
 .btnGreen {
     background-color: #067a46;
+    border-color: #067a46;
     color: #fff;
     padding-left: 30px;
     padding-right: 30px
@@ -397,6 +398,7 @@ i {
 .btnGreen:hover {
     text-decoration: none;
     background-color: #086c3f;
+    border-color: #067a46;
     color: #fff
 }
 
