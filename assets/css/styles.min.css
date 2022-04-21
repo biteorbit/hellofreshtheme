@@ -1,0 +1,439 @@
+.simple-slider .swiper-slide, .stress-sparen-section {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.imageOverlay, .stress-sparen {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0
+}
+
+.footer-clean {
+    padding: 50px 0;
+    background-color: #fff;
+    color: #4b4c4d
+}
+
+.footer-clean h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 16px
+}
+
+.footer-clean ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0
+}
+
+.footer-clean ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: .8
+}
+
+.footer-clean ul a:hover {
+    opacity: 1
+}
+
+.footer-clean .item.social {
+    text-align: right
+}
+
+@media (max-width: 767px) {
+    .footer-clean .item {
+        text-align: center;
+        padding-bottom: 20px
+    }
+}
+
+.so-funktionierts, .stress-sparen-h1, .stress-sparen-h3 {
+    padding-bottom: 30px
+}
+
+.footer-clean .item.social > a {
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    margin-top: 22px;
+    color: inherit;
+    opacity: .75
+}
+
+.footer-clean .item.social > a:hover {
+    opacity: .9
+}
+
+@media (max-width: 991px) {
+    .footer-clean .item.social > a {
+        margin-top: 40px
+    }
+}
+
+@media (max-width: 767px) {
+    .footer-clean .item.social > a {
+        margin-top: 10px
+    }
+
+    .simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+        display: none
+    }
+}
+
+.footer-clean .copyright {
+    margin-top: 14px;
+    margin-bottom: 0;
+    font-size: 13px;
+    opacity: .6
+}
+
+.simple-slider .swiper-slide {
+    height: 500px
+}
+
+.simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+    width: 50px;
+    margin-left: 20px;
+    margin-right: 20px
+}
+
+@media (max-width: 767px) {
+    .simple-slider .swiper-slide {
+        height: 360px
+    }
+}
+
+.logo {
+    max-height: 30px
+}
+
+.navbar-light .navbar-nav .nav-item > a {
+    color: #242424;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 16px;
+    padding-right: 8px;
+    font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, sans-serif
+}
+
+.btn.border.rounded-0.d-lg-flex.button-header, .button-header {
+    color: #067A46;
+    border-color: #067A46;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px
+}
+
+.btn.border.rounded-0.d-lg-flex.button-header {
+    font-family: Agrandir, Verdana, Geneva, sans-serif
+}
+
+.button-header {
+    min-width: 80px
+}
+
+.button-header:hover {
+    background-color: #ddf9b0;
+    border-color: #067a46;
+    border-width: 2px
+}
+
+.stress-sparen {
+    text-align: center;
+    margin: auto
+}
+
+.stress-sparen-h3 {
+    font-size: 20px
+}
+
+.stress-sparen-section {
+    min-height: 500px
+}
+
+.so-funktionierts-ueberschrift {
+    text-align: center;
+    margin-top: 50px
+}
+
+.so-funktionierts {
+    color: #736f6f;
+    padding-top: 20px;
+    font-size: 15px
+}
+
+.col.gerichte-waehlen {
+    max-width: 300px;
+    text-align: center
+}
+
+.row.so-funktionierts-steps {
+    padding-top: 50px;
+    justify-content: center
+}
+
+.so-funktionierts-h3 {
+    padding-top: 20px
+}
+
+.so-funktionierts-steps-h3 {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500
+}
+
+.so-funktionierts-steps {
+    padding-top: 10px;
+    color: #6a6a6a;
+    font-size: 17px
+}
+
+.so-funktionierts-mehr-erfahren {
+    text-align: center;
+    padding-top: 40px
+}
+
+.col.jetzt-starten-col2, .icontext-h5, .jetzt-starten-h5, .lieferpause {
+    padding-top: 20px
+}
+
+.lieferpause {
+    font-size: 17px
+}
+
+.btn.d-md-flex.d-lg-flex.justify-content-md-center.button-header.mehr-erfahren {
+    margin: auto
+}
+
+.jetzt-starten {
+    margin-left: 50px;
+    margin-right: 50px
+}
+
+.jetzt-starten-h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px
+}
+
+.icontext-h5, .text-small-h5 {
+    font-size: 17px
+}
+
+i {
+    color: #668e66
+}
+
+.col.jetzt-starten-col1 {
+    background-color: #fff
+}
+
+.rezepte {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px
+}
+
+.padding5 {
+    padding-top: 5px
+}
+
+.rezepteblock {
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+.col.rezepte-col-margin-right {
+    margin-right: 20px
+}
+
+.col.rezepte-col {
+    min-height: 300px
+}
+
+.rezepte-col-h4 {
+    color: #fff;
+    font-weight: 500;
+    padding-top: 200px
+}
+
+.rezepte-col-h5 {
+    color: #fff
+}
+
+.imageOverlay {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 45%, #000)
+}
+
+.col.rezepte-col.rezepte-col-margin-right.col-background {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.col.rezepte-col.rezepte-col-margin-right.col-background.col1 {
+    background-image: url(../../assets/img/busyweek.png.jpg)
+}
+
+.col.rezepte-col.rezepte-col-margin-right.col-background.col2 {
+    background-image: url(../../assets/img/impressyourguest.png)
+}
+
+.col.rezepte-col.rezepte-col-margin-right.col-background.col3 {
+    background-image: url(../../assets/img/deliciousextra.png)
+}
+
+.col.rezepte-col.rezepte-col-margin-right.col-background.col4 {
+    background-image: url(../../assets/img/specialoccasion.png)
+}
+
+.rezepteHolder > .rezepte-col:last-child {
+    margin-right: 0 !important
+}
+
+.so-funktionierts-h2 {
+    font-size: 25px
+}
+
+.testimonial-ueberschrift {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center
+}
+
+.h1, h1 {
+    font-size: 50px
+}
+
+.btn.d-md-flex.d-lg-flex.justify-content-md-center.button-header.mehr-erfahren.menu-ansehen {
+    margin-top: 30px
+}
+
+.fa.fa-quote-left {
+    font-size: 40px;
+    color: #4f4f4f
+}
+
+.fa.fa-star {
+    font-size: 30px;
+    color: gold
+}
+
+.text-center.starte-jetzt-margin {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(255, 255, 255, .4)
+}
+
+.rezept-col1-pic {
+    background-image: url(../../assets/img/busyweek.png.jpg)
+}
+
+.rezepte-col {
+    min-width: 250px
+}
+
+.backgroundImageHolder {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    height: 230px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover!important;
+}
+
+.imageOverSpan {
+    color: #fff;
+    position: absolute;
+    bottom: 30px;
+    font-size: 26px;
+    text-align: center;
+    padding: 0 10px;
+    margin: auto;
+    right: 0;
+    left: 0
+}
+
+.ratingText, .spanBottomHeadlines, .underHeadlineText {
+    font-size: 20px
+}
+
+.col-md-3.rezeptHolder {
+    min-width: 200px
+}
+
+@media (max-width: 1200px) {
+    .rezeptHolder {
+        padding-bottom: 25px
+    }
+}
+
+.stress-center {
+    align-items: center
+}
+
+.btnGreen {
+    background-color: #067a46;
+    color: #fff;
+    padding-left: 30px;
+    padding-right: 30px
+}
+
+.btnGreen:hover {
+    text-decoration: none;
+    background-color: #086c3f;
+    color: #fff
+}
+
+.descriptionText {
+    margin-bottom: 40px
+}
+
+.imageSection {
+    background-image: url(../../assets/img/landingpagehellofresh.jpg)
+}
+
+@media (max-width: 768px) {
+    .footer-clean .item.social {
+        text-align: center
+    }
+
+    .button-header {
+        display: none !important
+    }
+}
+
+@media (max-width: 576px) {
+    .paddingMobile {
+        padding-top: 40px
+    }
+}
+
+.btnGreen:active {
+    background-color: #086c3f !important
+}
+
+.spacer-content {
+    margin-top: 57px;
+}
+
+@media (max-width: 576px) {
+    .so-funktionierts-img {
+        width: 100%;
+    }
+}
